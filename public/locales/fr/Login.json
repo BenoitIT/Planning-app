@@ -1,0 +1,14 @@
+{
+  "titre": "Connectez-vous",
+  "sous-titre": "Bienvenue, comment souhaitez-vous vous connecter ?",
+  "google-login": "Se connecter avec Google",
+  "email-login": "ou avec e-maail",
+  "ph-email": "Email",
+  "ph-password": "ou avec e-maail",
+  "souvenir": "Se souvenir de moi",
+  "pwd-oublier": "Mot de passe oublié ?",
+  "btn-login": "Connexion",
+  "pas-compte": "Vous n'avez pas un compte ?",
+  "creer-compte": "Enregistrer-vous ici",
+  "language": "Français"
+}

@@ -1,0 +1,14 @@
+{
+    "compte-profil": {
+        "btn-1": "Edit",
+        "btn-2": "Edit profile",
+        "btn-3": "Change password",
+        "acces": {
+            "titre": "Access",
+            "opt-1": "Organization",
+            "opt-2": "Billing",
+            "opt-3": "Logistics",
+            "opt-4": "Communication"
+        }
+    }
+}

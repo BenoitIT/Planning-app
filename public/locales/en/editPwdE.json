@@ -1,0 +1,12 @@
+{
+    "edit-pwd": {
+        "titre": "Change your password",
+        "champ-1": "Current password",
+        "champ-2": "New password",
+        "ph-2": "12345678",
+        "champ-3": "Confirm new password",
+        "ph-3": "12345678",
+        "btn-quit": "Quit",
+        "btn-save": "Register"
+    }
+}

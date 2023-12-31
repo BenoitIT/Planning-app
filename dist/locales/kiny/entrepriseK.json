@@ -1,0 +1,37 @@
+entreprise.json
+{
+    "entreprise": {
+        "titre": "Ibisobanuro",
+        "champ-1": "Itorero",
+        "champ-2": "Imiterere",
+        "champ-3": "Ubwoko",
+        "champ-4": "Itariki yashinzweho",
+        "champ-5": "Ihinduka rya nyuma",
+        "champ-6": "Kwiyandikisha",
+        "statistique": {
+            "champ-7": "Ibarurishamibare",
+            "champ-8": "Abakozi b'ikigo",
+            "champ-9": "Aho ikigo kiboneka"
+        }
+    },
+    "users": {
+        "titre": "Abakoresha",
+        "btn-add": "Umukoresha mushya",
+        "col-1": "Izina",
+        "col-2": "Imeri",
+        "col-3": "Uruhare",
+        "col-4": "Ibikorwa"
+    },
+    "configuration": {
+        "titre": "Guhindura",
+        "btn-add": "Ongeraho",
+        "s-titre": "Ingengabihe",
+        "opt-1": "Iyihutirwa",
+        "opt-2": "Byihutirwa",
+        "opt-3": "Ibisanzwe"
+    },
+    "gmail": {
+        "titre": "Konti ya Gmail",
+        "btn": "Injira"
+    }
+}

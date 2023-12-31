@@ -1,0 +1,14 @@
+{
+    "sidebar-compte": {
+        "titre": "AdminAtete",
+        "sous-titre": "Dashboard",
+        "ph-modules": "Choose modules",
+        "utilisateur": "User",
+        "entreprise": "Business",
+        "abonnement": "Subscription"
+    },
+    "picliste-profil": {
+        "option-1": "Account",
+        "option-2": "Logout"
+    }
+}

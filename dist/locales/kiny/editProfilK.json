@@ -1,0 +1,14 @@
+editProfil.json
+{
+    "edit-pwd": {
+        "titre": "Hindura ibikuranga",
+        "btn-1": "Bika ishusho",
+        "champ-1": "Amazina",
+        "champ-2": "Imeri",
+        "champ-3": "Aderesi",
+        "champ-4": "Uko twakubona",
+        "valid": "Kwemeza impinduka, menya neza ko winjiza ijambo ryibanga",
+        "champ-5": "Ijambobanga",
+        "btn-save": "Kwiyandikisha"
+    }
+}

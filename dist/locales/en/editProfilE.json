@@ -1,0 +1,13 @@
+{
+    "edit-pwd": {
+        "titre": "Edit profile",
+        "btn-1": "Add picture",
+        "champ-1": "Name",
+        "champ-2": "Email",
+        "champ-3": "Adress",
+        "champ-4": "Contacts",
+        "valid": "To validate the changes, be sure to enter your password",
+        "champ-5": "Password",
+        "btn-save": "Register"
+    }
+}

@@ -1,0 +1,39 @@
+{
+        "titre": "Kwiyandikisha",
+        "partie-1": {
+            "sous-titre": "Injiza amakuru y,ikigo",
+            "champ-1": "Ikigo",
+            "ph-1": "izina ryisosiyete",
+            "champ-2": "Umujyi / Akarere",
+            "ph-2": "Aho ikigo giherereye",
+            "champ-3": "Aderesi",
+            "ph-3": "Ibisobanuro birambuye",
+            "champ-4": "Igihugu",
+            "ph-4": "Hitamo igihugu",
+            "champ-5": "Kode y'iposita",
+            "ph-5": "Kode y'iposita",
+            "a-compte": "Ufite konti?",
+            "se-connecter": "Injirira hano",
+            "btn-precedent": "Ibibanza",
+            "btn-suivant": "Ibikurikira"
+        },
+        "partie-2": {
+          "sous-titre": "Kwiyandikisha",
+          "champ-1": "Izina",
+          "ph-1": "Izina ryawe",
+          "champ-2": "Izina rya mbere",
+          "ph-2": "Izina ryawe",
+          "champ-3": "Imeri",
+          "ph-3": "Imeri yawe",
+          "champ-4": "Ijambobanga",
+          "ph-4": "**********",
+          "champ-5": "kwemeza ijambobanga",
+          "ph-5": "**********",
+          "champ-6": "Erekana ijambobanga",
+          "a-compte": "Ufite konti ",
+          "se-connecter": "Injirira hano",
+          "btn-precedent": "Ibibanza",
+          "btn-save": "Iyandikishe",
+          "btn-suivant": "Ibikurikira"
+        }
+    }

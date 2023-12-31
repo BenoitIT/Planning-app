@@ -1,0 +1,13 @@
+editPwd.json
+{
+    "edit-pwd": {
+        "titre": "Hindura ijambobanga",
+        "champ-1": "Ijambobanga usanganywe",
+        "champ-2": "Ijambobanga Rishya",
+        "ph-2": "12345678",
+        "champ-3": "Emeza ijambobanga",
+        "ph-3": "12345678",
+        "btn-quit": "Kureka",
+        "btn-save": "Kwiyandikisha"
+    }
+}

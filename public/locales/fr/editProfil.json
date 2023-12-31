@@ -1,0 +1,13 @@
+{
+    "edit-pwd": {
+        "titre": "Modification profile",
+        "btn-1": "Sauvegarder l'image",
+        "champ-1": "Noms",
+        "champ-2": "Email",
+        "champ-3": "Adresse",
+        "champ-4": "Contacts",
+        "valid": "Pour valider les modifications, veillez saisir votre mot de passe",
+        "champ-5": "Mot de passe",
+        "btn-save": "Enregister"
+    }
+}

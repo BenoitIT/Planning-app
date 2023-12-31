@@ -1,0 +1,14 @@
+{
+    "compte-profil": {
+        "btn-1": "Modifier",
+        "btn-2": "Modifier le profil",
+        "btn-3": "Modifier le mot de passe",
+        "acces": {
+            "titre": "Acces",
+            "opt-1": "Organisation",
+            "opt-2": "Facturation",
+            "opt-3": "Logistique",
+            "opt-4": "Communication"
+        }
+    }
+}

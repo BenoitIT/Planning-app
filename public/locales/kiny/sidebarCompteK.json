@@ -1,0 +1,15 @@
+sidebarCompte.json
+{
+    "sidebar-compte": {
+        "titre": "AdminAtete",
+        "sous-titre": "Ihuriro",
+        "ph-modules": "Hitamo gahunda",
+        "utilisateur": "Umukoresha",
+        "entreprise": "Ikigo",
+        "abonnement": "Kwiyandikisha"
+    },
+    "picliste-profil": {
+        "option-1": "Konti",
+        "option-2": "Gusohoka"
+    }
+}

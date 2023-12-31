@@ -1,0 +1,21 @@
+
+{
+    "abonnement": {
+        "titre": "Kwiyandikisha kuri gahunda",
+        "etiquet": "Umwaka 1",
+        "btn-paid": "Kwishyura",
+        "modules": {
+            "organisation": {
+                "s-titre": "Ikigo",
+                "detail-1": "Gucunga amabaruwa",
+                "detail-2": "Inyandiko no Kohereza Ubuyobozi bwayo",
+                "detail-3": "Gucunga gahunda nibyabaye",
+                "detail-4": "Guhuza imiyoborere",
+                "detail-5": "Gucunga gahunda",
+                "detail-6": "Ububiko bw'inyandiko",
+                "detail-7": "Igufasha gutunganya akazi kawe",
+                "btn-select": "Hitamo"
+            }
+        }
+    }
+}

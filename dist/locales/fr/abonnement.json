@@ -1,0 +1,20 @@
+{
+    "abonnement": {
+        "titre": "Souscription aux modules",
+        "etiquet": "1 année",
+        "btn-paid": "Payer",
+        "modules": {
+            "organisation": {
+                "s-titre": "Organisation",
+                "detail-1": "Gestion de courriers",
+                "detail-2": "Gestion des notes et Post Its",
+                "detail-3": "Gestion des plannings et Events",
+                "detail-4": "Gestion des cooordonées",
+                "detail-5": "Gestion d'horaire",
+                "detail-6": "Archivage des documents",
+                "detail-7": "vous faicite l'organisation de votre travail",
+                "btn-select": "Sélectionner"
+            }
+        }
+    }
+}

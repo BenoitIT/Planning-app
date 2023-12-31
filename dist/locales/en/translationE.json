@@ -1,0 +1,9 @@
+{
+    "clef": "value",
+    "modulesNames": {
+        "organisation": "Organization",
+        "facturation": "Billing",
+        "logistique": "Logistics",
+        "communiction": "Communication"
+    }
+}

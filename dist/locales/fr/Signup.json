@@ -1,0 +1,39 @@
+ {
+        "titre": "Inscription",
+        "partie-1": {
+            "sous-titre": "Entrez les informations sur l'entreprise",
+            "champ-1": "Denomination",
+            "ph-1": "Nom d'entreprise",
+            "champ-2": "Ville/Region",
+            "ph-2": "Location de l'entreprise",
+            "champ-3": "Adresse",
+            "ph-3": "Plus de détails",
+            "champ-4": "Pays",
+            "ph-4": "Choisir un pays",
+            "champ-5": "Code postal",
+            "ph-5": "Code postal",
+            "a-compte": "Déjà un compte?",
+            "se-connecter": "Connectez-vous ici",
+            "btn-precedent": "Précedent",
+            "btn-suivant": "Suivant"
+        },
+        "partie-2": {
+          "sous-titre": "Créer un utilisateur",
+          "champ-1": "Nom",
+          "ph-1": "Votre nom",
+          "champ-2": "Prénom",
+          "ph-2": "Votre prénom",
+          "champ-3": "E-mail",
+          "ph-3": "Votre email",
+          "champ-4": "Mot de passe",
+          "ph-4": "**********",
+          "champ-5": "Confirmer mot de passe",
+          "ph-5": "**********",
+          "champ-6": "Afficher mot de passe",
+          "a-compte": "Déjà un compte ?",
+          "se-connecter": "Connectez-vous ici",
+          "btn-precedent": "Précedent",
+          "btn-save": "Enregistrer",
+          "btn-suivant": "Suivante"
+        }
+    }

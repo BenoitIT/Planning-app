@@ -1,0 +1,90 @@
+{
+        "side-bar": {
+            "titre": "AdminAtete",
+            "sous-titre": "Ihuriro",
+            "ph-modules": "Hitamo gahunda",
+            "picliste-modules": {
+                "ph-picliste": "Izina ryawe",
+                "module-1": "Ishyirahamwe",
+                "module-2": "Kwishyuza",
+                "module-3": "Ibikoresho",
+                "module-4": "Itumanaho"
+            },
+            "picliste-profil": {
+                "option-1": "Konti",
+                "option-2": "Gusohoka"
+            }
+        },
+        "body": {
+            "classement": {
+                "titre": "Urutonde",
+                "sous-titre": "Inyandiko zibitse",
+                "btn-correspondance": "Kwandikirana",
+                "btn-plus": "Ibindi",
+                "autre-1": "Ubucuruzi",
+                "autre-2": "Uko mwatubona",
+                "autre-3": "Abakozi"
+            },
+            "events": {
+                "titre": "Icyakurikiyeho",
+                "sous-titre": "Inyandiko zibitse",
+                "btn-plus": "Gahunda yuzuye"
+            },
+            "Organisation": {
+                "titre": "Ikigo",
+                "sous-titre1": "Bizarangira iki gihe",
+                "sous-titre2": "Inyandiko",
+                "piclistes": {
+                    "tire": "Ikigo",
+                    "sous-titre1": "Inyandiko nto",
+                    "sous-titre2": "Uko mwatubona",
+                    "sous-titre3": "Abakozi",
+                    "sous-titre4": "Inyandiko"
+                }
+            },
+            "Facturation": {
+                "titre": "Kwishyuza",
+                "sous-titre1": "Bizarangira iki gihe",
+                "sous-titre2": "Idosiye ",
+                "piclistes": {
+                    "tire": "Kwishyuza",
+                    "sous-titre1": "Amafaranga yishyuye",
+                    "sous-titre2": "Amafaranga ategereje",
+                    "sous-titre3": "Inyemezabuguzi",
+                    "sous-titre4": "Ibisobanuro"
+                }
+            },
+            "Logistique": {
+                "titre": "Ibikoresho",
+                "sous-titre1": "Bizarangira iki gihe",
+                "sous-titre2": "Idosiye ",
+                "piclistes": {
+                    "tire": "Ibikoresho",
+                    "sous-titre1": "Ibiri mu bubiko",
+                    "sous-titre2": "Amasomo",
+                    "sous-titre3": "Ibikoresho bitandukanye"
+                }
+            },
+            "Communication": {
+                "titre": "Itumanaho",
+                "sous-titre1": "Bizarangira iki gihe",
+                "sous-titre2": "Idosiye ",
+                "piclistes": {
+                    "tire": "Itumanaho",
+                    "sous-titre1": "Amabaruwa",
+                    "sous-titre2": "Kashe"
+                }
+            },
+            "Horaire personnel": {
+              "titre": "Gahunda y'umuntu ku giti cye",
+              "name": "amazina",
+              "monday": "Kuwa mbere",
+              "tuesday": "Kuwa kabiri",
+              "wednesday": "Kuwa gatatu",
+              "thursday": "Kuwa kane",
+              "friday": "Kuwa gatanu",
+              "saturday": "Kuwa gatandatu",
+              "sunday": "Ku cyumweru"
+            }
+        }
+    }

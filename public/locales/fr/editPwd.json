@@ -1,0 +1,12 @@
+{
+    "edit-pwd": {
+        "titre": "Modifier votre mot de passe",
+        "champ-1": "Mot de passe actuel",
+        "champ-2": "Nouveau mot de passe",
+        "ph-2": "12345678",
+        "champ-3": "Confirmer le mot de passe",
+        "ph-3": "12345678",
+        "btn-quit": "Quitter",
+        "btn-save": "Enregister"
+    }
+}

@@ -1,0 +1,10 @@
+translation.json
+{
+    "clef": "agaciro",
+    "modulesNames": {
+        "organisation": "Ikigo",
+        "facturation": "Kwishyuza",
+        "logistique": "Ibikoresho",
+        "communiction": "Itumanaho"
+    }
+}

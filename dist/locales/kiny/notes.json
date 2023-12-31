@@ -1,0 +1,22 @@
+{
+    "notes": {
+        "note": {
+            "titre1": "Inyandiko",
+            "titre2": "Inyandiko zanjye",
+            "btn-1": "Inyandiko nshya",
+            "btn-2": "Ibindi"
+        },
+
+        "post-it": {
+            "titre1": "Tegura inyandiko nto",
+            "titre2": "Inyandiko nto yanjye",
+            "btn-add": "Inyandiko nto shyashya",
+            "progression": {
+                "col-1": "Ibyo gukora",
+                "col-2": "Birakomeje",
+                "col-3": "Byarangiye",
+                "design": "inkuru"
+            }
+        }
+    }
+}

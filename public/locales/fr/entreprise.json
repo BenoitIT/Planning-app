@@ -1,0 +1,36 @@
+{
+    "entreprise": {
+        "titre": "Détails",
+        "champ-1": "Denomination",
+        "champ-2": "Status",
+        "champ-3": "Type",
+        "champ-4": "Date de création",
+        "champ-5": "Dernière modification",
+        "champ-6": "Souscription",
+        "statistique": {
+            "champ-7": "Statistique",
+            "champ-8": "Personnels de l'entreprise",
+            "champ-9": "Contacts de l'entreprise"
+        }
+    },
+    "users": {
+        "titre": "Utilisateurs",
+        "btn-add": "Nouveau utilisateur",
+        "col-1": "Nom",
+        "col-2": "Email",
+        "col-3": "Role",
+        "col-4": "Actions"
+    },
+    "configuration": {
+        "titre": "Configuration",
+        "btn-add": "Ajouter",
+        "s-titre": "Categories plannings",
+        "opt-1": "Urgent",
+        "opt-2": "Moins-Urgent",
+        "opt-3": "Ordinaire"
+    },
+    "gmail": {
+        "titre": "Compte Gmail",
+        "btn": "Connect"
+    }
+}

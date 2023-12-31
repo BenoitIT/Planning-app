@@ -1,0 +1,20 @@
+{
+    "abonnement": {
+        "titre": "Subscription on modules",
+        "etiquet": "1 Year",
+        "btn-paid": "Pay",
+        "modules": {
+            "organisation": {
+                "s-titre": "Organization",
+                "detail-1": "Incoming mails management",
+                "detail-2": "Notes and Post Its management",
+                "detail-3": "Plannings and Events management",
+                "detail-4": "Cooordinates",
+                "detail-5": "Time table management",
+                "detail-6": "Archive of documents",
+                "detail-7": "Helps you to organize your work",
+                "btn-select": "Select"
+            }
+        }
+    }
+}

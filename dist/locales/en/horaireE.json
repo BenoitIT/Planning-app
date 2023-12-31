@@ -1,0 +1,19 @@
+{
+    "horaire": {
+        "titre": "Hourly",
+        "horaire": {
+            "titre1": "Hourly"
+        }
+    },
+    "personnel": {
+        "titre1": "Employee",
+        "add-personnel": {
+            "s-titre": "Add Employee",
+            "champ-1": "Name",
+            "champ-2": "Email",
+            "champ-3": "Address",
+            "champ-4": "Phone",
+            "btn-1": "Add"
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "add-note": {
+        "s-titre": "Add note",
+        "title": "Title",
+        "design": "Summary",
+        "btn-quit": "Quit",
+        "btn-save": "Register"
+    },
+    "add-postit": {
+        "s-titre": "Add a post it",
+        "title": "Title",
+        "design": "Description",
+        "progress": "Progress",
+        "ph-progress": "Progress",
+        "btn-quit": "Quit",
+        "btn-save": "Register"
+    },
+    "add-libelle": {
+        "s-titre": "Create Label",
+        "btn-annuler": "Cancel",
+        "btn-save": "Create"
+    },
+    "add-rapidevent": {
+        "ph-titre": "Add title",
+        "btn-1": "SAVE",
+        "btn-2": "MORE DETAILS"
+    },
+    "add-completevent": {
+        "s-titre": "New Event",
+        "priorité": {
+            "titre": "Priority",
+            "option-1": "Urgent",
+            "option-2": "Less-urgent",
+            "option-3": "Ordinary"
+        },
+        "champ-1": "Title",
+        "champ-2": "Location",
+        "champ-3": "Start",
+        "champ-4": "End",
+        "champ-5": "Entire day",
+        "champ-6": "Time Zone",
+        "champ-7": "Repeat",
+        "choix": {
+            "option-1": "Never",
+            "option-2": "Daily",
+            "option-3": "Weekly",
+            "option-4": "Monthly",
+            "option-5": "Annual"
+        },
+        "champ-8": "Description",
+        "btn-1": "SAVE",
+        "btn-2": "CANCEL"
+    },
+    "add-classement": {
+        "champ-1": "New cabinet",
+        "champ-2": "New section of elements",
+        "champ-3": "New documents folder",
+        "champ-4": "Import document"
+    },
+    "add-armoire": {
+        "champ-1": "New cabinet",
+        "champ-2": "New name",
+        "ph-nom": "New element name",
+        "btn-1": "Register",
+        "btn-2": "Cancel"
+    },
+    "add-rayon": {
+        "champ-1": "cabinet",
+        "champ-2": "New name",
+        "ph-nom": "New element name",
+        "btn-1": "Register",
+        "btn-2": "Cancel"
+    },
+    "add-farde": {
+        "champ-1": "New Folder",
+        "champ-2": "Cabinet",
+        "champ-3": "Section",
+        "champ-4": "New name",
+        "ph-nom": "New element name",
+        "btn-1": "Register",
+        "btn-2": "Cancel"
+    },
+    "add-doc": {
+        "champ-1": "New Folder",
+        "champ-2": "Cabinet",
+        "champ-3": "Section",
+        "champ-4": "Folder",
+        "champ-5": "New name",
+        "ph-nom": "New element name",
+        "dd": "Click or Drop a document/image",
+        "btn-1": "Register",
+        "btn-2": "Cancel"
+    }
+}

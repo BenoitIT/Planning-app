@@ -1,0 +1,22 @@
+{
+    "notes": {
+        "note": {
+            "titre1": "Notes",
+            "titre2": "Mes notes",
+            "btn-1": "Nouvelle note",
+            "btn-2": "Plus"
+        },
+
+        "post-it": {
+            "titre1": "Post-it",
+            "titre2": "Mes post-its",
+            "btn-add": "Nouveau post-it",
+            "progression": {
+                "col-1": "A faire",
+                "col-2": "En cours",
+                "col-3": "Términées",
+                "design": "articles"
+            }
+        }
+    }
+}

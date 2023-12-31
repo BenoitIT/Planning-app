@@ -1,0 +1,9 @@
+{
+    "clef": "valeur",
+    "modulesNames": {
+        "organisation": "Organisation",
+        "facturation": "Facturation",
+        "logistique": "Logistique",
+        "communiction": "Communication"
+    }
+}

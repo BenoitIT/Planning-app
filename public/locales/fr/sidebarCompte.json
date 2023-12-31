@@ -1,0 +1,14 @@
+{
+    "sidebar-compte": {
+        "titre": "AdminAtete",
+        "sous-titre": "Tableau de bord",
+        "ph-modules": "Choisir modules",
+        "utilisateur": "Utilisateur",
+        "entreprise": "Entreprise",
+        "abonnement": "Abonnement"
+    },
+    "picliste-profil": {
+        "option-1": "Compte",
+        "option-2": "Deconnexion"
+    }
+}

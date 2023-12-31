@@ -1,0 +1,39 @@
+ {
+        "titre": "Registration",
+        "partie-1": {
+            "sous-titre": "Enter company information",
+            "champ-1": "Denomination",
+            "ph-1": "company name",
+            "champ-2": "City/Region",
+            "ph-2": "Company rental",
+            "champ-3": "Address",
+            "ph-3": "More details",
+            "champ-4": "Country",
+            "ph-4": "Choose a country",
+            "champ-5": "Postal code",
+            "ph-5": "Postal code",
+            "a-compte": "Already have an account ?",
+            "se-connecter": "Log in here",
+            "btn-precedent": "Previous",
+            "btn-suivant": "Following"
+        },
+        "partie-2": {
+            "sous-titre": "Create a user",
+            "champ-1": "Name",
+            "ph-1": "Your name",
+            "champ-2": "First name",
+            "ph-2": "Your first name",
+            "champ-3": "E-mail",
+            "ph-3": "Your email",
+            "champ-4": "Password",
+            "ph-4": "**********",
+            "champ-5": "Confirm password",
+            "ph-5": "**********",
+            "champ-6": "Show password",
+            "a-compte": "Already have an account ?",
+            "se-connecter": "Log in here",
+            "btn-precedent": "Previous",
+            "btn-save": "Register",
+            "btn-suivant": "Next"
+        }
+    }

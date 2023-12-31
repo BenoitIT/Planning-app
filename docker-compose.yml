@@ -1,0 +1,13 @@
+version: '3.4'
+
+services:
+  adminatete:
+    image: adminatete
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    environment:
+      NODE_ENV: production
+      VITE_APP_API_URL: ${VITE_APP_API_URL}
+    ports:
+      - 5173:5173

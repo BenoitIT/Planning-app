@@ -1,0 +1,17 @@
+{
+    "side-bar": {
+        "titre": "AdminAtete",
+        "sous-titre": "Tableau de bord",
+        "ph-modules": "Organisation",
+        "courier": "Courier",
+        "planing": "Planing",
+        "notes": "Notes",
+        "classement": "Classement",
+        "coordonnees": "Coordonnées",
+        "horaire": "Horaire"
+    },
+    "picliste-profil": {
+        "option-1": "Compte",
+        "option-2": "Deconnexion"
+    }
+}

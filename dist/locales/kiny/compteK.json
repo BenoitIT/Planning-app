@@ -1,0 +1,15 @@
+compte.json
+{
+    "compte-profil": {
+        "btn-1": "Hindura",
+        "btn-2": "Hindura umwirondoro",
+        "btn-3": "Hindura ijambo ryibanga",
+        "acces": {
+            "titre": "Kwinjira",
+            "opt-1": "Ishyirahamwe",
+            "opt-2": "Kwishyuza",
+            "opt-3": "Ibikoresho",
+            "opt-4": "Itumanaho"
+        }
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "add-note": {
+        "s-titre": "Ajouter une note",
+        "title": "Titre",
+        "design": "Resumé",
+        "btn-quit": "Quitter",
+        "btn-save": "Enregistrer"
+    },
+    "add-postit": {
+        "s-titre": "Ajouter un post-it",
+        "title": "Titre",
+        "design": "Description",
+        "progress": "Pression",
+        "ph-progress": "Progression",
+        "btn-quit": "Quitter",
+        "btn-save": "Enregistrer"
+    },
+    "add-libelle": {
+        "s-titre": "Créer Libellé",
+        "btn-annuler": "Annuler",
+        "btn-save": "Créer"
+    },
+    "add-rapidevent": {
+        "ph-titre": "Ajouter un titre",
+        "btn-1": "SAUVEGARDER",
+        "btn-2": "PLUS DE DÉTAILS"
+    },
+    "add-completevent": {
+        "s-titre": "Nouvel évènement",
+        "priorité": {
+            "titre": "Priorité",
+            "option-1": "Urgent",
+            "option-2": "Moins-urgent",
+            "option-3": "Ordinaire"
+        },
+        "champ-1": "Titre",
+        "champ-2": "Emplacement",
+        "champ-3": "Début",
+        "champ-4": "Fin",
+        "champ-5": "Toute la journée",
+        "champ-6": "Fuseau horaire",
+        "champ-7": "Répéter",
+        "choix": {
+            "option-1": "Jamais",
+            "option-2": "Quotidien",
+            "option-3": "Hebdomadaire",
+            "option-4": "Mensuel",
+            "option-5": "Annuel"
+        },
+        "champ-8": "La description",
+        "btn-1": "SAUVEGARDER",
+        "btn-2": "ANNULER"
+    },
+    "add-classement": {
+        "champ-1": "Nouvelle Armoire",
+        "champ-2": "Nouveau Rayon d'éléments",
+        "champ-3": "Nouvelle Farde de documents",
+        "champ-4": "Importer un Document"
+    },
+    "add-armoire": {
+        "champ-1": "Nouvelle Armoire",
+        "champ-2": "Nouveau nom",
+        "ph-nom": "Nom nouvel element",
+        "btn-1": "Enregister",
+        "btn-2": "Annuler"
+    },
+    "add-rayon": {
+        "champ-1": "Armoire",
+        "champ-2": "Nouveau nom",
+        "ph-nom": "Nom nouvel element",
+        "btn-1": "Enregister",
+        "btn-2": "Annuler"
+    },
+    "add-farde": {
+        "champ-1": "Nouvelle farde",
+        "champ-2": "Armoire",
+        "champ-3": "Rayon",
+        "champ-4": "Nouveau nom",
+        "ph-nom": "Nom nouvel element",
+        "btn-1": "Enregister",
+        "btn-2": "Annuler"
+    },
+    "add-doc": {
+        "champ-1": "Nouvelle farde",
+        "champ-2": "Armoire",
+        "champ-3": "Rayon",
+        "champ-4": "Farde",
+        "champ-5": "Nouveau nom",
+        "ph-nom": "Nom nouvel element",
+        "dd": "Cliquez ou Déposer un document/image",
+        "btn-1": "Enregister",
+        "btn-2": "Annuler"
+    }
+}

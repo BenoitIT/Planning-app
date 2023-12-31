@@ -1,0 +1,91 @@
+{
+        "side-bar": {
+            "titre": "AdminAtete",
+            "sous-titre": "Tableau de bord",
+            "ph-modules": "Choisir module",
+            "picliste-modules": {
+                "ph-picliste": "Votre nom",
+                "module-1": "Organisation",
+                "module-2": "Facturation",
+                "module-3": "Logistique",
+                "module-4": "Communication"
+            },
+            "picliste-profil": {
+                "option-1": "Compte",
+                "option-2": "Deconnexion"
+            }
+        },
+        "body": {
+            "classement": {
+                "titre": "Classement",
+                "sous-titre": "Documents classés",
+                "btn-correspondance": "Correspondance",
+                "btn-plus": "Plus",
+                "autre-1": "Entreprise",
+                "autre-2": "Contacts",
+                "autre-3": "personnels"
+            },
+            "events": {
+                "titre": "Prochain événement",
+                "sous-titre": "Documents classés",
+                "btn-plus": "Planning complet"
+            },
+            "Organisation": {
+                "titre": "Organisation",
+                "sous-titre1": "Expire le ",
+                "sous-titre2": "Fichier ",
+                "piclistes": {
+                    "tire": "Organisation",
+                    "sous-titre1": "Notes",
+                    "sous-titre2": "Contacts",
+                    "sous-titre3": "Employés",
+                    "sous-titre4": "Documents"
+                }
+            },
+            "Facturation": {
+                "titre": "Facturation",
+                "sous-titre1": "Expire le ",
+                "sous-titre2": "Fichier ",
+                "piclistes": {
+                    "tire": "Facturation",
+                    "sous-titre1": "N.F payées",
+                    "sous-titre2": "N.F en attente",
+                    "sous-titre3": "Factures",
+                    "sous-titre4": "Extraits"
+                }
+            },
+            "Logistique": {
+                "titre": "Logistique",
+                "sous-titre1": "Expire le ",
+                "sous-titre2": "Fichier ",
+                "piclistes": {
+                    "tire": "Logistique",
+                    "sous-titre1": "Produits en stock",
+                    "sous-titre2": "courses",
+                    "sous-titre3": "Fournitures"
+                }
+            },
+            "Communication": {
+                "titre": "Communication",
+                "sous-titre1": "Expire le ",
+                "sous-titre2": "Fichier ",
+                "piclistes": {
+                    "tire": "Communication",
+                    "sous-titre1": "Lettres",
+                    "sous-titre2": "Cachets"
+                }
+            },
+            "Horaire personnel": {
+                "titre": "Horaire personnel",
+                "name": "Nom",
+                "monday": "Lundi",
+                "tuesday": "Mardi",
+                "wednesday": "Mercredi",
+                "thursday": "Jeudi",
+                "friday": "Vendredi",
+                "saturday": "Samedi",
+                "sunday": "Dimanche"
+
+            }
+        }
+    }

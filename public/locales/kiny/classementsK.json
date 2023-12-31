@@ -1,0 +1,16 @@
+classements.json
+{
+    "classement": {
+        "ph-search": "Ubushakashatsi",
+        "btn-add": "Igishya",
+        "titre": "Ingingo",
+        "tableau": {
+            "col-1": "Izina",
+            "col-2": "Ingano",
+            "col-3": "Yongeyeho",
+            "col-4": "Kwishyuza",
+            "col-5": "Ibisobanuro "
+        },
+        "s-titre": "Ububiko"
+    }
+}

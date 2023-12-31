@@ -1,0 +1,91 @@
+ {
+        "side-bar": {
+            "titre": "AdminAtete",
+            "sous-titre": "Dashboard",
+            "ph-modules": "Choose module",
+            "picliste-modules": {
+                "ph-picliste": "Your name",
+                "module-1": "Organization",
+                "module-2": "Billing",
+                "module-3": "Logistics",
+                "module-4": "Communication"
+            },
+            "picliste-profil": {
+                "option-1": "Account",
+                "option-2": "Logout"
+            }
+        },
+        "body": {
+            "classement": {
+                "titre": "Ranking",
+                "sous-titre": "Classified documents",
+                "btn-correspondance": "Correspondence",
+                "btn-plus": "More",
+                "autre-1": "Business",
+                "autre-2": "contacts",
+                "autre-3": "Personal"
+            },
+            "events": {
+                "titre": "Next event",
+                "sous-titre": "Classified documents",
+                "btn-plus": "Complete schedule"
+            },
+            "Organisation": {
+                "titre": "Organization",
+                "sous-titre1": "Expires on ",
+                "sous-titre2": "File ",
+                "piclistes": {
+                    "tire": "Organization",
+                    "sous-titre1": "Ratings",
+                    "sous-titre2": "Contacts",
+                    "sous-titre3": "Employees",
+                    "sous-titre4": "Documents"
+                }
+            },
+            "Facturation": {
+                "titre": "Billing",
+                "sous-titre1": "Expires on ",
+                "sous-titre2": "File ",
+                "piclistes": {
+                    "tire": "Billing",
+                    "sous-titre1": "N.F paid",
+                    "sous-titre2": "NF pending",
+                    "sous-titre3": "Invoices",
+                    "sous-titre4": "Extracts"
+                }
+            },
+            "Logistique": {
+                "titre": "Logistics",
+                "sous-titre1": "Expires on ",
+                "sous-titre2": "File ",
+                "piclistes": {
+                    "tire": "Logistics",
+                    "sous-titre1": "Products in stock",
+                    "sous-titre2": "courses",
+                    "sous-titre3": "Fournitures"
+                }
+            },
+            "Communication": {
+                "titre": "Communication",
+                "sous-titre1": " Expires on",
+                "sous-titre2": "File",
+                "piclistes": {
+                    "tire": "Communication",
+                    "sous-titre1": "letters",
+                    "sous-titre2": "Stamps"
+                }
+            },
+            "Horaire personnel": {
+              "titre": "Personal schedule",
+              "name": "Names",
+              "monday": "monday",
+              "tuesday": "tuesday",
+              "wednesday": "wednesday",
+              "thursday": "thursday",
+              "friday": "friday",
+              "saturday": "saturday",
+              "sunday": "sunday"
+            }
+        }
+    }
+

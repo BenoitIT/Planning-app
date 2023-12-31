@@ -1,0 +1,15 @@
+{
+    "classement": {
+        "ph-search": "Research",
+        "btn-add": "New",
+        "titre": "Article",
+        "tableau": {
+            "col-1": "Name",
+            "col-2": "Size",
+            "col-3": "Added",
+            "col-4": "Charge",
+            "col-5": "Details"
+        },
+        "s-titre": "Archives"
+    }
+}

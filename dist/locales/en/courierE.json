@@ -1,0 +1,23 @@
+{
+    "courier": {
+        "titre": "Correspondence",
+        "btn-add": {
+            "titre": "Add",
+            "pic-liste": "Labelled"
+        },
+        "Reçu": {
+            "titre": "Received",
+            "col-1": "Name",
+            "champ-2": "Size",
+            "champ-3": "Date",
+            "champ-4": "Actions"
+        },
+        "Envoyé": {
+            "titre": "Sent",
+            "col-1": "Name",
+            "champ-2": "Size",
+            "champ-3": "Date",
+            "champ-4": "Actions"
+        }
+    }
+}

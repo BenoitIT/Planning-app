@@ -1,0 +1,15 @@
+{
+  "titre": "Login",
+  "sous-titre": "Welcome, how would you like to log in?",
+  "google-login": "With Google",
+  "email-login": "Or with your e-mail",
+  "ph-email": "Email",
+  "ph-password": "Or with your e-mail",
+  "souvenir": "Remember me",
+  "pwd-oublier": "Forgot password?",
+  "btn-login": "Login",
+  "pas-compte": "Don't have an account?",
+  "creer-compte": "Register here",
+  "language":"English"
+
+}

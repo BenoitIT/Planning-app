@@ -1,0 +1,17 @@
+{
+    "side-bar": {
+        "titre": "AdminAtete",
+        "sous-titre": "Dashboard",
+        "ph-modules": "Organization",
+        "courier": "Courier",
+        "planing": "Planning",
+        "notes": "Notes",
+        "classement": "Ranking",
+        "coordonnees": "Contact details",
+        "horaire": "Time table"
+    },
+    "picliste-profil": {
+        "option-1": "Account",
+        "option-2": "Logout"
+    }
+}

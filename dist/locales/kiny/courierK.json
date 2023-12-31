@@ -1,0 +1,24 @@
+courier.json
+{
+    "courier": {
+        "titre": "Kwandikirana",
+        "btn-add": {
+            "titre": "Ongeraho",
+            "pic-liste": "Gufata amajwi"
+        },
+        "Reçu": {
+            "titre": "Yakiriwe",
+            "col-1": "Izina",
+            "champ-2": "Ingano",
+            "champ-3": "Itariki",
+            "champ-4": "Umugabane"
+        },
+        "Envoyé": {
+            "titre": "Ibyoherejwe",
+            "col-1": "Izina",
+            "champ-2": "Ingano",
+            "champ-3": "Itariki",
+            "champ-4": "Umugabane"
+        }
+    }
+}

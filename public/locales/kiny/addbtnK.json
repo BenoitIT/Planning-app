@@ -1,0 +1,95 @@
+addBtnE.json
+{
+    "add-note": {
+        "s-titre": "Ongeraho inyandiko",
+        "title": "Umutwe",
+        "design": "Incamake",
+        "btn-quit": "Kureka",
+        "btn-save": "Iyandikishe"
+    },
+    "add-postit": {
+        "s-titre": "Ongeraho inyandiko ",
+        "title": "Umutwe",
+        "design": "Ibisobanuro",
+        "progress": "Iterambere*",
+        "ph-progress": "Iterambere",
+        "btn-quit": "Kureka",
+        "btn-save": "Iyandikishe"
+    },
+    "add-libelle": {
+        "s-titre": "Kurema ikirango",
+        "btn-annuler": "Kureka",
+        "btn-save": "Kurema"
+    },
+    "add-rapidevent": {
+        "ph-titre": "Ongeraho umutwe",
+        "btn-1": "Kubika",
+        "btn-2": "IBINDI BINTU"
+    },
+    "add-completevent": {
+        "s-titre": "Ibirori bishya",
+        "priorité": {
+            "titre": "Ibyingenzi",
+            "option-1": "Byihutirwa",
+            "option-2": "Ntabwo byihutirwa",
+            "option-3": "Ibisanzwe"
+        },
+        "champ-1": "Umutwe",
+        "champ-2": "Aho biherereye",
+        "champ-3": "Tangira",
+        "champ-4": "Iherezo",
+        "champ-5": "Umunsi wose",
+        "champ-6": "Igihe cyagenwe",
+        "champ-7": "Subiramo",
+        "choix": {
+            "option-1": "Nta na rimwe",
+            "option-2": "Buri munsi",
+            "option-3": "Buri cyumweru",
+            "option-4": "Buri kwezi",
+            "option-5": "Buri mwaka"
+        },
+        "champ-8": "Ibisobanuro",
+        "btn-1": "Kubika",
+        "btn-2": "Kureka"
+    },
+    "add-classement": {
+        "champ-1": "Inama y'Abaminisitiri",
+        "champ-2": "Igice gishya cyibintu",
+        "champ-3": "Ububiko bushya",
+        "champ-4": "Kuzana inyandiko"
+    },
+    "add-armoire": {
+        "champ-1": "Inama y'Abaminisitiri",
+        "champ-2": "Izina rishya",
+        "ph-nom": "Izina ryibintu bishya",
+        "btn-1": "Iyandikishe",
+        "btn-2": "Kureka"
+    },
+    "add-rayon": {
+        "champ-1": "Inama y'Abaminisitiri",
+        "champ-2": "Izina rishya",
+        "ph-nom": "Izina ryibintu bishya",
+        "btn-1": "Iyandikishe",
+        "btn-2": "Kureka"
+    },
+    "add-farde": {
+        "champ-1": "Ububiko bushya",
+        "champ-2": "Inama y'Abaminisitiri",
+        "champ-3": "Icyiciro",
+        "champ-4": "Izina rishya",
+        "ph-nom": "Izina ryibintu bishya",
+        "btn-1": "Iyandikishe",
+        "btn-2": "Kureka"
+    },
+    "add-doc": {
+        "champ-1": "Ububiko bushya",
+        "champ-2": "Inama y'Abaminisitiri",
+        "champ-3": "Icyiciro",
+        "champ-4": "Ububiko",
+        "champ-5": "Izina rishya",
+        "ph-nom": "Izina ryibintu bishya",
+        "dd": "Kanda cyangwa Kureka inyandiko / ishusho",
+        "btn-1": "Iyandikishe",
+        "btn-2": "Kureka"
+    }
+}
